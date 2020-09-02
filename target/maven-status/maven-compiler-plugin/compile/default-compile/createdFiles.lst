@@ -1,0 +1,12 @@
+bookRental\PointApplication.class
+bookRental\AbstractEvent$1.class
+bookRental\AbstractEvent.class
+bookRental\Canceled.class
+bookRental\ConfirmSucceeded.class
+bookRental\Point.class
+bookRental\PolicyHandler.class
+bookRental\Saved.class
+bookRental\PointRepository.class
+bookRental\PointController.class
+bookRental\ConfirmCanceled.class
+bookRental\config\kafka\KafkaProcessor.class
